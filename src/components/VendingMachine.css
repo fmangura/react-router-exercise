@@ -1,0 +1,17 @@
+.background {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://cdn1.epicgames.com/ue/product/Screenshot/gallery01ue5-1920x1080-ce8c734b5d4e6815b347faccb5cd2ff7.png?resize=1&w=1920');
+    background-size: cover;
+}
+
+.container {
+    background-color: black;
+    opacity: 0.5;
+    width: 200px;
+    height: 100px;
+    display:inline-block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
